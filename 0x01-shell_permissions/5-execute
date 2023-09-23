@@ -1,7 +1,2 @@
 #!/bin/bash
-if [ -e "hello" ]; then
-  # Add execute permission to the owner of the file
-  chmod u+x hello
-  echo "Execute permission added to the owner of 'hello' file."
-else
-  echo "File 'hello' not found in the current directory."
+chmod u+x hello
