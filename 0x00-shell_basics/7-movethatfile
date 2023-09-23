@@ -1,1 +1,2 @@
-#!/bin/bash echo why?
+#!/bin/bash
+mv /tmp/betty /tmp/my_first_directory/betty
